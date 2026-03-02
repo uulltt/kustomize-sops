@@ -45,7 +45,7 @@ changelog:
 
 release:
   github:
-    owner: viaduct-ai
+    owner: uulltt
     name: kustomize-sops
 
 dockers:
