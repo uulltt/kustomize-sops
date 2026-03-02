@@ -3,7 +3,7 @@ module github.com/uulltt/kustomize-sops
 go 1.24.6
 
 require (
-	github.com/getsops/sops/v3 v3.11.0
+	github.com/getsops/sops/v3 v3.12.1
 	github.com/joho/godotenv v1.5.1
 	sigs.k8s.io/kustomize/api v0.19.0
 	sigs.k8s.io/yaml v1.6.0
