@@ -1,4 +1,4 @@
-module github.com/viaduct-ai/kustomize-sops
+module github.com/uulltt/kustomize-sops
 
 go 1.24.6
 
